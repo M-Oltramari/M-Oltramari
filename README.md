@@ -29,28 +29,6 @@
 
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/cat-heart-white.gif" width="60" style="vertical-align: middle;" />
-  𝙴𝚞 𝚐𝚘𝚜𝚝𝚘...
-</h2>
-
-<ul>
-  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/game.gif" width="30" style="vertical-align: middle;" /> 𝙶𝚊𝚖𝚎𝚜
-
-</li>
-   <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/chun-taek-2.gif" width="30" style="vertical-align: middle;" /> 𝚃𝚊𝚎𝚔𝚠𝚘𝚗𝚍𝚘
-</li>
-  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/sleep-cat.gif" width="30" style="vertical-align: middle;" /> 𝙳𝚘𝚛𝚖𝚒𝚛</li>
-  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/gunter.gif" width="30" style="vertical-align: middle;" /> 𝙵𝚛𝚒𝚘</li>
-  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/book.gif" width="30" style="vertical-align: middle;" /> 𝙻𝚒𝚟𝚛𝚘𝚜 𝚍𝚎 𝚝𝚎𝚛𝚛𝚘𝚛</li>
-  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/coffee-pixel.gif" width="30" style="vertical-align: middle;" /> 𝙲𝚑𝚊 𝚚𝚞𝚎𝚗𝚝𝚒𝚗𝚑𝚘</li>
-  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/cat-heart-1-white.gif" width="30" style="vertical-align: middle;" /> 𝙶𝚊𝚝𝚘𝚜</li>
-  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/pixel-heart.gif" width="30" style="vertical-align: middle;" /> 𝙲𝚛𝚒𝚊𝚛 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜 𝚋𝚘𝚗𝚒𝚝𝚊𝚜 𝚎 𝚏𝚞𝚗𝚌𝚒𝚘𝚗𝚊𝚒𝚜 (𝚎𝚞 𝚖𝚎 𝚎𝚜𝚏𝚘𝚛ç𝚘)</li>
-</ul>
-
-
----
-
 ## 🛠️🖥️ 𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊𝚜 𝚎 𝙵𝚎𝚛𝚛𝚊𝚖𝚎𝚗𝚝𝚊𝚜
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -98,6 +76,27 @@
   <li>📚 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 𝚍𝚎 𝙸𝚗𝚏𝚘𝚛𝚖𝚊ç𝚊𝚘 – 𝙴𝚜𝚝𝚊𝚌𝚒𝚘 𝚍𝚎 𝚂𝚊</li>
   <li>💻 𝚃𝚊𝚖𝚋𝚎𝚖 𝚏𝚊ç𝚘 𝚊𝚚𝚞𝚎𝚕𝚎𝚜 𝚌𝚞𝚛𝚜𝚘𝚜 𝚕𝚎𝚐𝚊𝚒𝚜 𝚗𝚊 𝙰𝚕𝚞𝚛𝚊 𝚎 𝚗𝚊 𝚁𝚘𝚌𝚔𝚎𝚝𝚜𝚎𝚊𝚝
 </li>
+</ul>
+
+---
+
+<h2>
+  <img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/cat-heart-white.gif" width="60" style="vertical-align: middle;" />
+  𝙴𝚞 𝚐𝚘𝚜𝚝𝚘...
+</h2>
+
+<ul>
+  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/game.gif" width="30" style="vertical-align: middle;" /> 𝙶𝚊𝚖𝚎𝚜
+
+</li>
+   <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/chun-taek-2.gif" width="30" style="vertical-align: middle;" /> 𝚃𝚊𝚎𝚔𝚠𝚘𝚗𝚍𝚘
+</li>
+  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/sleep-cat.gif" width="30" style="vertical-align: middle;" /> 𝙳𝚘𝚛𝚖𝚒𝚛</li>
+  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/gunter.gif" width="30" style="vertical-align: middle;" /> 𝙵𝚛𝚒𝚘</li>
+  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/book.gif" width="30" style="vertical-align: middle;" /> 𝙻𝚒𝚟𝚛𝚘𝚜 𝚍𝚎 𝚝𝚎𝚛𝚛𝚘𝚛</li>
+  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/coffee-pixel.gif" width="30" style="vertical-align: middle;" /> 𝙲𝚑𝚊 𝚚𝚞𝚎𝚗𝚝𝚒𝚗𝚑𝚘</li>
+  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/cat-heart-1-white.gif" width="30" style="vertical-align: middle;" /> 𝙶𝚊𝚝𝚘𝚜</li>
+  <li><img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/pixel-heart.gif" width="30" style="vertical-align: middle;" /> 𝙲𝚛𝚒𝚊𝚛 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜 𝚋𝚘𝚗𝚒𝚝𝚊𝚜 𝚎 𝚏𝚞𝚗𝚌𝚒𝚘𝚗𝚊𝚒𝚜 (𝚎𝚞 𝚖𝚎 𝚎𝚜𝚏𝚘𝚛ç𝚘)</li>
 </ul>
 
 ---
