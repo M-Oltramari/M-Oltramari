@@ -71,11 +71,8 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-
 ---
-
-## <h2>
+ <h2>
   <img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/logo-catlover.gif"
        width="40"
        style="vertical-align: middle; margin-right: 10px;" />
@@ -87,8 +84,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Oltramari&layout=compact&theme=radical)
 
 ---
-
-##
 
 <h2>
   <img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/pikachu-constru.gif" width="60" style="vertical-align: middle; margin-right: 8px;" />
@@ -105,10 +100,7 @@
 </li>
 </ul>
 
-
 ---
-
-##
 
 <h2>
   <img src="https://raw.githubusercontent.com/M-Oltramari/M-Oltramari/main/assets/computer-lover.gif"
